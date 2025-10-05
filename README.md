@@ -145,14 +145,10 @@ Want quick access?
 
 <div align="center">
 
-### Dark Mode
-<img src="https://via.placeholder.com/400x700/000000/ffffff?text=Dark+Mode+UI" width="300"/>
 
-### Light Mode
-<img src="https://via.placeholder.com/400x700/ffffff/000000?text=Light+Mode+UI" width="300"/>
 
 ### Settings Panel
-<img src="https://via.placeholder.com/400x300/1a1a1a/00d4ff?text=Hotkey+Settings" width="300"/>
+<img src="(https://github.com/Flynn9128/Theme-Toggler/blob/main/Screenshot%202025-10-05%20164336.png?raw=true)" width="300"/>
 
 </div>
 
