@@ -110,7 +110,7 @@ Choose any method:
 ### **Customize Hotkey**
 
 <div align="center">
-<img src="https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Settings+Panel" width="400"/>
+<img src="https://github.com/Flynn9128/Theme-Toggler/blob/main/Screenshot%202025-10-05%20164327.png?raw=true" width="400"/>
 </div>
 
 1. Click **⚙️ Customize Hotkey** in main window
