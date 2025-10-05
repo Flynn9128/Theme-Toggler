@@ -9,9 +9,6 @@
 
 **The fastest way to toggle Windows 11 dark mode**
 
-[Download](#-download) • [Features](#-features) • [Usage](#-usage) • [Build](#-build-from-source)
-
-<img src="https://via.placeholder.com/800x400/000000/00d4ff?text=Theme+Toggler" alt="Theme Toggler Banner" width="600"/>
 
 </div>
 
