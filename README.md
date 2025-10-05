@@ -141,14 +141,6 @@ Want quick access?
 
 ---
 
-## 🎨 Screenshots
-
-<div align="center">
-
-
-
-### Settings Panel
-<img src="(https://github.com/Flynn9128/Theme-Toggler/blob/main/Screenshot%202025-10-05%20164336.png?raw=true)" width="300"/>
 
 </div>
 
